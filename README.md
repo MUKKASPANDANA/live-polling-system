@@ -323,10 +323,3 @@ VoteSchema.index({ pollId: 1, studentId: 1 }, { unique: true });
 - **Database**: MongoDB
 - **Build**: TypeScript, Vite, ESBuild
 
-## 📄 License
-
-MIT
-
----
-
-**Built with ❤️ for real-time polling**
